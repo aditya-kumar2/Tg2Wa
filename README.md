@@ -15,7 +15,7 @@ Using [Telegraf](https://github.com/telegraf/telegraf) & [baileys](https://www.n
 
 Clone this repository using
 ```sh
-$ git clone https://github.com/aditya-agrahari2/Tg2Wa.git
+$ git clone https://github.com/aditya-kumar2/Tg2Wa.git
 ```
 Enter the directory and install all the requirements using
 ```sh
