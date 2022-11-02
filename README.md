@@ -28,7 +28,7 @@ $ npm start
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :)  
 ---
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/salman0ansari/Tg2Wa/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/aditya-agrahari2/Tg2Wa/tree/main)
 
 ## Contributing
 ---
