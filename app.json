@@ -7,7 +7,7 @@
       "tg2wa"
     ],
     "success_url": "https://github.com/salman0ansari",
-    "repository": "https://github.com/aditya-agrahari2/Tg2Wa.git",
+    "repository": "https://github.com/aditya-kumar2/Tg2Wa.git",
     "env": {
       "BOT_TOKEN": {
         "description": "Your bot token from @botfather, as a string."
